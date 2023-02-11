@@ -7,7 +7,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
+"Oculus Downgrader.exe" -nU d --appid 3262063300561328 --versionid 3921311851303133 --headset rif
   <ItemGroup>
     <None Include="QuestPatcher.Axaml\QuestPatcher.Axml.csproj" />
   </ItemGroup>
